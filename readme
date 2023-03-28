@@ -1,7 +1,1 @@
-echo "# SEC-440-01-Systems-Security" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin git@github.com:Sarah-F/SEC-440-01-Systems-Security.git
-git push -u origin main
+SEC-440-01-Systems-Security
